@@ -1,7 +1,5 @@
 streamlit == 0.80.0
-tensorflow == 2.5.0rc1
-cv2
-fastparquet
-pandas
-numpy
-PIL
+tensorflow == 2.9.1
+cv2 == 4.6.2
+numpy == 1.23.2
+PIL == 9.2.0
