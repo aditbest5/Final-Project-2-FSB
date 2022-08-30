@@ -1,0 +1,7 @@
+streamlit == 0.80.0
+tensorflow == 2.5.0rc1
+cv2
+fastparquet
+pandas
+numpy
+PIL
